@@ -13,8 +13,6 @@ The playground demonstrates how to generate code with natural language.
 Autor: Offer Sadey
 """
 
-!pip install openai 
-
 import os
 import openai
 
