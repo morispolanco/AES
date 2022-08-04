@@ -198,8 +198,6 @@ def run_preset_10(query):
 
 ##!pip uninstall dash jupyter_dash
 ## Temporary usage of Dash 2.0 due to a bug on 2.1
-!pip install dash==2.0.0
-!pip install jupyter-dash
 
 from jupyter_dash import JupyterDash
 import dash_core_components as dcc
