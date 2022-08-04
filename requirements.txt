@@ -1,2 +1,3 @@
 openai
 dash
+jupyter_dash
