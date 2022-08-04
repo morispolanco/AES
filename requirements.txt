@@ -1,3 +1,2 @@
 openai
-dash
-jupyter_dash
+JupyterDash
